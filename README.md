@@ -170,15 +170,6 @@ const anujKumar = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Anujkumar9081/Anujkumar9081/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 <div align="center">
 
