@@ -55,26 +55,6 @@ const anujKumar = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-### Overall Stats
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anujkumar9081&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-### Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anujkumar9081&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anujkumar9081&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-### Contribution Graph
-[![Anuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anujkumar9081&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 ```text
