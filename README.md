@@ -216,7 +216,6 @@ const anujKumar = {
 
 ---
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 **Thanks for visiting! 😊**
 
