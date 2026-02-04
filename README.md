@@ -28,7 +28,7 @@ const anujKumar = {
 
 - 🔭 Currently working on **Java DSA practice** and **basic frontend projects**
 - 📚 Learning **Data Structures & Algorithms**, **JavaScript**, **Web Fundamentals**, **Git & GitHub**
-- 🌱 Building small projects to strengthen my programming basics
+- 🌱 Building  projects to streng then my programming basics
 - 💡 Open to **internships** and **learning opportunities**
 - ⚡ Fun fact: I believe consistency is the key to mastery!
 
@@ -54,17 +54,6 @@ const anujKumar = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## 📈 Contribution Activity
-
-```text
-📅 2026 Contributions Overview:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔥 37 Total Contributions in 2025-2026
-✨ Active contributor to open source projects
-🚀 Continuous learner and builder
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 
 
@@ -124,7 +113,7 @@ const anujKumar = {
 
 ---
 
-## 🎨 GitHub Metrics
+
 
 <div align="center">
 
