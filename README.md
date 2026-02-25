@@ -142,39 +142,7 @@ const anujKumar = {
 
 ---
 
-## 🔥 Recent GitHub Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-
-<div align="center">
-
-### ⭐ Show some love by starring my repositories!
-
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-[![Made with ❤️ by Anuj Kumar](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Anuj%20Kumar-red?style=for-the-badge)](https://github.com/Anujkumar9081)
-
----
-
-### 📊 Profile Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anujkumar9081&theme=radical)
-
----
 
 
 **Thanks for visiting! 😊**
