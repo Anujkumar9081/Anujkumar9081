@@ -1,61 +1,132 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:DC143C&height=200&section=header&text=Anuj%20Kumar&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Java%20and%20Web%20Dev%20Enthusiast&descAlignY=58&descAlign=50" />
+</div>
 
-# 👋 Hi there, I'm Anuj Kumar
+<div align="center">
 
-### 💻 Aspiring Software Engineer | Java & Web Development Enthusiast
+### 👨‍💻 Student Developer Building the Future, One Commit at a Time
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anuj-kumar-67053a36b)
-[![Email](https://img.shields.io/badge/Email-anujyadav9081anu@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:anujyadav9081anu@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Anujkumar9081?style=for-the-badge&logo=github)](https://github.com/Anujkumar9081)
-[![Profile Views](https://komarev.com/ghpvc/?username=Anujkumar9081&style=for-the-badge&color=blue)](https://github.com/Anujkumar9081)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1500&color=F7971E&center=true&vCenter=true&width=650&height=60&lines=Open+Source+Contributor;Learning+DevOps+%26+System+Programming;Full+Stack+Developer;Data+Structures+%26+Algorithms+Enthusiast;Open+to+Collaboration!&repeat=true" alt="Typing SVG" />
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-kumar-67053a36b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujyadav9081anu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anujkumar9081)
+[![Profile Views](https://komarev.com/ghpvc/?username=Anujkumar9081&style=for-the-badge&color=f7971e&label=Profile+Views)](https://github.com/Anujkumar9081)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
 ```javascript
 const anujKumar = {
     location: "Pune, Maharashtra, India 🇮🇳",
     education: "Vedam School of Technology, Pune",
     currentFocus: ["Java DSA", "Frontend Development", "Open Source"],
-    lookingFor: "Internship opportunities and collaborative projects",
-    timezone: "UTC +5:30",
-    hobbies: ["Coding", "Problem Solving", "Learning New Technologies"]
+    learningGoals: ["Node.js", "React", "DevOps", "System Programming"],
+    interests: ["Building Solutions", "Contributing to FOSS", "Problem Solving"],
+    funFact: "I believe consistency is the key to mastery!"
 };
 ```
 
-- 🔭 Currently working on **Java DSA practice** and **basic frontend projects**
-- 📚 Learning **Data Structures & Algorithms**, **JavaScript**, **Web Fundamentals**, **Git & GitHub**
-- 🌱 Building  projects to streng then my programming basics
+---
+
+## 💻 Technical Arsenal
+
+<div align="center">
+
+### Core Technologies
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+<br>Tailwind CSS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+</tr>
+</table>
+
+### Currently Exploring
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+<br>Go
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+</tr>
+</table>
+
+### Development Tools
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🔥 What I'm Up To
+
+- 🌱 Practicing **Data Structures & Algorithms** daily in **Java**
+- 💻 Building frontend projects with **HTML, CSS, JavaScript & Tailwind**
+- 🚀 Exploring **Node.js** and backend development
+- ⚙️ Learning **System Programming** concepts
+- 🐹 Getting started with **Go**
+- 🐧 Hands-on with **Linux** command line
+- 🤝 Looking for **open source** projects to contribute to
 - 💡 Open to **internships** and **learning opportunities**
-- ⚡ Fun fact: I believe consistency is the key to mastery!
 
 ---
-
-## 🛠️ Tech Stack & Tools
-
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Frontend Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-
 
 ## 🎯 Current Goals
 
@@ -66,13 +137,13 @@ const anujKumar = {
     - Build 10+ frontend projects
     - Contribute to 5+ open source projects
     - Learn advanced JavaScript concepts
-  
+
   professional:
     - Secure a software engineering internship
     - Network with 100+ developers
     - Complete 3 certifications
     - Build a strong GitHub portfolio
-  
+
   personal:
     - Maintain daily coding streak
     - Write technical blogs
@@ -81,43 +152,39 @@ const anujKumar = {
 
 ---
 
-## 💡 Skills & Expertise
-
-### Core Competencies
-- **Programming**: Java, JavaScript, Python, Go
-- **Web Development**: HTML5, CSS3, Responsive Design
-- **Version Control**: Git, GitHub
-- **Problem Solving**: Data Structures & Algorithms
-- **Tools**: VS Code, Linux, Command Line
-
-### Currently Learning
-- Advanced JavaScript (ES6+)
-- React.js
-- Node.js
-- Database Management
-- System Design Basics
-
----
-
-## 📫 Let's Connect!
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-kumar-67053a36b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anujyadav9081anu@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anujkumar9081)
 
-**💬 Always open to interesting conversations and collaboration opportunities!**
+
+[![Anuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anujkumar9081&bg_color=0d1117&color=f7971e&line=f7971e&point=ffd200&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anujkumar9081/Anujkumar9081/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anujkumar9081/Anujkumar9081/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Anujkumar9081/Anujkumar9081/output/github-snake-dark.svg" />
+</picture>
+
+---
+
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/Anujkumar9081?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FKolkata)
+```diff
++ 🎯 Actively building Java DSA skills and frontend projects
++ 💡 Consistent learner exploring new technologies every day
++ 🔨 Building practical solutions to strengthen programming basics
++ 📚 Dedicated to daily coding practice and skill development
++ 🌟 Passionate about contributing to open source
+```
 
 </div>
 
@@ -142,9 +209,12 @@ const anujKumar = {
 
 ---
 
+<div align="center">
 
-
+**💬 Always open to interesting conversations and collaboration opportunities!**
 
 **Thanks for visiting! 😊**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C,100:8B0000&height=120&section=footer" />
 
 </div>
