@@ -113,42 +113,8 @@ const anujKumar = {
 
 </div>
 
----
 
-## 🔥 What I'm Up To
 
-- 🌱 Practicing **Data Structures & Algorithms** daily in **Java**
-- 💻 Building frontend projects with **HTML, CSS, JavaScript & Tailwind**
-- 🚀 Exploring **Node.js** and backend development
-- ⚙️ Learning **System Programming** concepts
-- 🐹 Getting started with **Go**
-- 🐧 Hands-on with **Linux** command line
-- 🤝 Looking for **open source** projects to contribute to
-- 💡 Open to **internships** and **learning opportunities**
-
----
-
-## 🎯 Current Goals
-
-```yaml
-2026_goals:
-  technical_skills:
-    - Master Data Structures & Algorithms
-    - Build 10+ frontend projects
-    - Contribute to 5+ open source projects
-    - Learn advanced JavaScript concepts
-
-  professional:
-    - Secure a software engineering internship
-    - Network with 100+ developers
-    - Complete 3 certifications
-    - Build a strong GitHub portfolio
-
-  personal:
-    - Maintain daily coding streak
-    - Write technical blogs
-    - Help other beginners in their coding journey
-```
 
 ---
 
@@ -164,48 +130,11 @@ const anujKumar = {
 
 ---
 
-## 🐍 Contribution Snake
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anujkumar9081/Anujkumar9081/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anujkumar9081/Anujkumar9081/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Anujkumar9081/Anujkumar9081/output/github-snake-dark.svg" />
 </picture>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-```diff
-+ 🎯 Actively building Java DSA skills and frontend projects
-+ 💡 Consistent learner exploring new technologies every day
-+ 🔨 Building practical solutions to strengthen programming basics
-+ 📚 Dedicated to daily coding practice and skill development
-+ 🌟 Passionate about contributing to open source
-```
-
-</div>
-
----
-
-## 🎲 Fun Facts
-
-<div align="center">
-
-```
-🎮 When I'm not coding, you'll find me:
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-📖 Reading tech articles and documentation
-💡 Brainstorming new project ideas
-🎯 Solving coding challenges
-🌐 Exploring new technologies
-🤝 Contributing to open source
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
 
 ---
 
