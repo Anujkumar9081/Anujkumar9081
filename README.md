@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 👨‍💻 Student Developer Building the Future, One Commit at a Time
+### 👨‍💻 Architecting Secure & Scalable Open-Source Tooling
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1500&color=F7971E&center=true&vCenter=true&width=650&height=60&lines=Open+Source+Contributor;Learning+DevOps+%26+System+Programming;Full+Stack+Developer;Data+Structures+%26+Algorithms+Enthusiast;Open+to+Collaboration!&repeat=true" alt="Typing SVG" />
 
@@ -25,12 +25,27 @@
 const anujKumar = {
     location: "Pune, Maharashtra, India 🇮🇳",
     education: "Vedam School of Technology, Pune",
-    currentFocus: ["Java DSA", "Frontend Development", "Open Source"],
-    learningGoals: ["Node.js", "React", "DevOps", "System Programming"],
-    interests: ["Building Solutions", "Contributing to FOSS", "Problem Solving"],
-    funFact: "I believe consistency is the key to mastery!"
+    role: "Software Engineer & Open Source Contributor",
+    expertise: ["Backend Systems", "CI/CD Pipelines", "Dependency Management"],
+    coreStack: ["Python", "Go", "Java", "Linux", "Docker"],
+    openSourceEcosystems: ["CNCF (Cloud Native)", "Red Hat", "Kubernetes"],
+    currentFocus: "Architecting secure, scalable open-source tooling."
 };
+
 ```
+
+---
+
+
+### 🛠️ Open Source Contributions
+| Project | Organization | Contribution | Status |
+| :--- | :--- | :--- | :---: |
+| **[Jaeger](https://github.com/jaegertracing/jaeger/pull/8275#event-24349245471)** | CNCF | [Fixed 64-bit trace ID byte alignment corruption in Elasticsearch storage](#8275) | 🟣 Merged |
+| **[Antrea](https://github.com/antrea-io/antrea/pull/7998#event-24576778516)** | VMware / CNCF | [Patched critical command injection vulnerability in CI/CD workflows](#7998) | 🟣 Merged |
+| **[Antrea](https://github.com/antrea-io/antrea/pull/7923#event-24053300980)** | VMware / CNCF | [Fixed error-wrapping bug in SupportBundleCollection controller](#7923) | 🟣 Merged |
+| **[Hermeto](https://github.com/hermetoproject/hermeto/pull/1513#issuecomment-4242525151)** | Red Hat | [Engineered parsing logic for multi-version Python wheel compressed tags](#1513) | 🟣 Merged |
+| **[Hermeto](https://github.com/hermetoproject/hermeto/pull/1497#event-24286966754)** | Red Hat | [Updated lockfile generation architecture documentation for `uv`](#1497) | 🟣 Merged |
+| **[ESP-Website](https://github.com/learning-unlimited/ESP-Website/pull/4652#event-23419534977)** | Learning Unlimited | [Fixed punctuation normalization data bug in statistics processing](#4652) | 🟣 Merged |
 
 ---
 
@@ -130,11 +145,7 @@ const anujKumar = {
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anujkumar9081/Anujkumar9081/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anujkumar9081/Anujkumar9081/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Anujkumar9081/Anujkumar9081/output/github-snake-dark.svg" />
-</picture>
+
 
 ---
 
