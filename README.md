@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:DC143C&height=200&section=header&text=Anuj%20Kumar&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Java%20and%20Web%20Dev%20Enthusiast&descAlignY=58&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:DC143C&height=200&section=header&text=Anuj%20Kumar&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Dev%20%7C%20DevOps%20%7C%20AI-ML%20%7C%20Building%20Scalable%20Web%20Apps&descAlignY=58&descAlign=50" />
 </div>
 
 <div align="center">
 
 ### 👨‍💻 Architecting Secure & Scalable Open-Source Tooling
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1500&color=F7971E&center=true&vCenter=true&width=650&height=60&lines=Open+Source+Contributor;Learning+DevOps+%26+System+Programming;Full+Stack+Developer;Data+Structures+%26+Algorithms+Enthusiast;Open+to+Collaboration!&repeat=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1500&color=F7971E&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer;DevOps+and+Cloud+Engineer;AI-ML+Enthusiast;Open+Source+Contributor;Building+Scalable+Web+Apps;Open+to+Collaboration!&repeat=true" alt="Typing SVG" />
 
 <br><br>
 
@@ -24,12 +24,14 @@
 ```javascript
 const anujKumar = {
     location: "Pune, Maharashtra, India 🇮🇳",
-    education: "Vedam School of Technology, Pune",
-    role: "Software Engineer & Open Source Contributor",
-    expertise: ["Backend Systems", "CI/CD Pipelines", "Dependency Management"],
-    coreStack: ["Python", "Go", "Java", "Linux", "Docker"],
-    openSourceEcosystems: ["CNCF (Cloud Native)", "Red Hat", "Kubernetes"],
-    currentFocus: "Architecting secure, scalable open-source tooling."
+    education: "B.Tech CSE (AI) @ Vedam School of Technology, Pune",
+    role: "Full Stack Developer | DevOps | AI/ML Enthusiast",
+    expertise: ["Full Stack Web Development", "DevOps & CI/CD", "AI/ML", "System Design"],
+    languages: ["JavaScript", "TypeScript", "Python", "Go", "Java"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
+    backend: ["Node.js", "Express.js", "MongoDB"],
+    devOps: ["Docker", "Kubernetes", "CI/CD Pipelines", "Linux"],
+    currentFocus: "Building scalable web apps & intelligent systems."
 };
 
 ```
@@ -40,12 +42,12 @@ const anujKumar = {
 ### 🛠️ Open Source Contributions
 | Project | Organization | Contribution | Status |
 | :--- | :--- | :--- | :---: |
-| **[Jaeger](https://github.com/jaegertracing/jaeger/pull/8275#event-24349245471)** | CNCF | [Fixed 64-bit trace ID byte alignment corruption in Elasticsearch storage](#8275) | 🟣 Merged |
-| **[Antrea](https://github.com/antrea-io/antrea/pull/7998#event-24576778516)** | VMware / CNCF | [Patched critical command injection vulnerability in CI/CD workflows](#7998) | 🟣 Merged |
-| **[Antrea](https://github.com/antrea-io/antrea/pull/7923#event-24053300980)** | VMware / CNCF | [Fixed error-wrapping bug in SupportBundleCollection controller](#7923) | 🟣 Merged |
-| **[Hermeto](https://github.com/hermetoproject/hermeto/pull/1513#issuecomment-4242525151)** | Red Hat | [Engineered parsing logic for multi-version Python wheel compressed tags](#1513) | 🟣 Merged |
-| **[Hermeto](https://github.com/hermetoproject/hermeto/pull/1497#event-24286966754)** | Red Hat | [Updated lockfile generation architecture documentation for `uv`](#1497) | 🟣 Merged |
-| **[ESP-Website](https://github.com/learning-unlimited/ESP-Website/pull/4652#event-23419534977)** | Learning Unlimited | [Fixed punctuation normalization data bug in statistics processing](#4652) | 🟣 Merged |
+| **[Jaeger](https://github.com/jaegertracing/jaeger/pull/8275)** | CNCF | [Fixed 64-bit trace ID byte alignment corruption in Elasticsearch storage](https://github.com/jaegertracing/jaeger/pull/8275) | 🟣 Merged |
+| **[Antrea](https://github.com/antrea-io/antrea/pull/7998)** | VMware / CNCF | [Patched critical command injection vulnerability in CI/CD workflows](https://github.com/antrea-io/antrea/pull/7998) | 🟣 Merged |
+| **[Antrea](https://github.com/antrea-io/antrea/pull/7923)** | VMware / CNCF | [Fixed error-wrapping bug in SupportBundleCollection controller](https://github.com/antrea-io/antrea/pull/7923) | 🟣 Merged |
+| **[Hermeto](https://github.com/hermetoproject/hermeto/pull/1513)** | Red Hat | [Engineered parsing logic for multi-version Python wheel compressed tags](https://github.com/hermetoproject/hermeto/pull/1513) | 🟣 Merged |
+| **[Hermeto](https://github.com/hermetoproject/hermeto/pull/1497)** | Red Hat | [Updated lockfile generation architecture documentation for `uv`](https://github.com/hermetoproject/hermeto/pull/1497) | 🟣 Merged |
+| **[ESP-Website](https://github.com/learning-unlimited/ESP-Website/pull/4652)** | Learning Unlimited | [Fixed punctuation normalization data bug in statistics processing](https://github.com/learning-unlimited/ESP-Website/pull/4652) | 🟣 Merged |
 
 ---
 
@@ -53,7 +55,34 @@ const anujKumar = {
 
 <div align="center">
 
-### Core Technologies
+### 🔤 Languages
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+<br>Go
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+</tr>
+</table>
+
+### 🎨 Frontend
 
 <table>
 <tr>
@@ -66,25 +95,21 @@ const anujKumar = {
 <br>CSS3
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
 <br>Tailwind CSS
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-<br>Java
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
 </tr>
 </table>
 
-### Currently Exploring
+### ⚙️ Backend & Database
 
 <table>
 <tr>
@@ -93,12 +118,31 @@ const anujKumar = {
 <br>Node.js
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+<br>Express.js
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-<br>Go
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+</tr>
+</table>
+
+### 🚀 DevOps & Cloud
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD" />
+<br>CI/CD
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
@@ -107,21 +151,17 @@ const anujKumar = {
 </tr>
 </table>
 
-### Development Tools
+### 🤖 AI / ML
 
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br>PyTorch
 </td>
 </tr>
 </table>
