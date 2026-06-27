@@ -18,7 +18,7 @@
 </div>
 
 ---
-<h3>Portfolio = https://anujkumar9081.github.io/portfolio/</h3>
+
 ## 🎯 About Me
 
 ```javascript
